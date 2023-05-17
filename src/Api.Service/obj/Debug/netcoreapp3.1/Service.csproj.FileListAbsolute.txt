@@ -1,0 +1,14 @@
+D:\projeto_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\projeto_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
+D:\projeto_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
+D:\projeto_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\projeto_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\projeto_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+D:\projeto_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
+D:\projeto_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
+D:\projeto_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Data.dll
+D:\projeto_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.dll
+D:\projeto_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\projeto_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Data.pdb
+D:\projeto_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+D:\projeto_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
